@@ -20,8 +20,6 @@
 
 <br />
 <h3 align="center">GitHub status</h3>
-<br />
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jyb1798&show_icons=true&theme=radical">
 </p>
