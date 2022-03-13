@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F5dF4D&height=250&section=header&text=Hello!%20I'm%20%20Yeoun%20Bee!&fontSize=65&animation=fadeIn&fontAlignY=38&descAlignY=60&descAlign=62&fontColor=#939597)
 
-<h3> 🔥🔥🔥Drillings </h3>
+<h3 align="center"> 🔥🔥🔥Drillings </h3>
  
 <p align="center">
 
@@ -19,7 +19,8 @@
 </p>
 
 <br />
-<h3>GitHub stats</h3>
+<h3 align="center">GitHub status</h3>
 
 <br />
+
 [![](https://github-readme-stats.vercel.app/api?username=jyb1798&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
