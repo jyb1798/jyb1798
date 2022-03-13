@@ -2,7 +2,7 @@
 
 ## Drillings🔥🔥🔥
 
-<p align='center'>
+<p align="left">
 
 <img src="https://camo.githubusercontent.com/ccf80c66e730d98449a1026e298d8f66016d229c330a2e74a12fd9a7a3fad54b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d79656c6c6f77"/>
 
