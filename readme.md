@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F5dF4D&height=250&section=header&text=Hello!%20I'm%20%20Yeoun%20Bee!&fontSize=65&animation=fadeIn&fontAlignY=38&descAlignY=60&descAlign=62&fontColor=#939597)
 
-## 🔥🔥🔥Drillings
-
-<p align="left">
+<h3> 🔥🔥🔥Drillings </h3>
+ 
+<p align="center">
 
 <img src="https://camo.githubusercontent.com/ccf80c66e730d98449a1026e298d8f66016d229c330a2e74a12fd9a7a3fad54b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d79656c6c6f77"/>
 
@@ -19,5 +19,7 @@
 </p>
 
 <br />
+<h3>GitHub stats</h3>
 
+<br />
 [![](https://github-readme-stats.vercel.app/api?username=jyb1798&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
