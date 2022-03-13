@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F5dF4D&height=250&section=header&text=Hello!%20지연비&fontSize=70&animation=fadeIn&fontAlignY=38&descAlignY=60&descAlign=62&fontColor=#939597)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F5dF4D&height=250&section=header&text=Hello!%20I'm%20%20Yeoun%20Bee!&fontSize=65&animation=fadeIn&fontAlignY=38&descAlignY=60&descAlign=62&fontColor=#939597)
 
 ## 🔥🔥🔥Drillings
 
@@ -17,3 +17,9 @@
 <img src="https://camo.githubusercontent.com/2c98ef2fa4c8c8628d4ddf2f06a67e0802a904bde5e037e98468451dee62ddc5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d726564"/>
 
 </p>
+
+## 🔥🔥🔥 Status
+
+<br />
+
+[![jyb1798's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyb1798&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
