@@ -4,22 +4,24 @@
  
 <p align="center">
 
-<img src="https://camo.githubusercontent.com/ccf80c66e730d98449a1026e298d8f66016d229c330a2e74a12fd9a7a3fad54b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d79656c6c6f77"/>
+  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img alt="TypeScript" src = "https://img.shields.io/badge/TypeScript-%231572B6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
+  <img alt="react-router" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
-<img src="https://camo.githubusercontent.com/f184dbe3f1a50a609d1d74c70ffc884ce85201cf687c49792baabfdfe29a5b09/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742e6a732d64656570736b79626c7565"/>
+</p>
 
-<img src="https://camo.githubusercontent.com/1ac6473281675f307506d953f1199a67c41394f9ef9f6e9ba96c986c8ee9700e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d626c7565"/>
-  
-<img src="https://camo.githubusercontent.com/deed67a3c1d4f798b50a6312774a231b321ab07398ac266de4ca06eee85551a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6578742e6a732d7768697465"/>
+<p align="center">
 
-<img src="https://camo.githubusercontent.com/97cfeca0dbaee6a8e0b8e0109ef2d00707615dfe8dc9315f9a9a07eace3d1103/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d6f72616e6765"/>
-  
-<img src="https://camo.githubusercontent.com/2c98ef2fa4c8c8628d4ddf2f06a67e0802a904bde5e037e98468451dee62ddc5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d726564"/>
+  <img alt="html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="css3" src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />  <img alt="styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+<img alt="sass" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+</p>
 
 </p>
 
 <br />
-<h2 align="center">GitHub status</h2>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jyb1798&show_icons=true&theme=radical">
 </p>
