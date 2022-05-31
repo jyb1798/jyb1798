@@ -8,7 +8,7 @@
   <img alt="TypeScript" src = "https://img.shields.io/badge/TypeScript-%231572B6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
   <img alt="react-router" src="https://img.shields.io/badge/nextjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img alt="Apex" src="https://img.shields.io/badge/apex-%23323330.svg?style=for-the-badge&logo=apex&logoColor=%23F7DF1E" />
+  <img alt="Apex" src="https://img.shields.io/badge/apex-%23323330.svg?style=for-the-badge&logo=apex&logoColor=white" />
 
 </p>
 
